@@ -1,7 +1,7 @@
 # tz_wcc2
 
 
-## Available Scripts
+## To lanch this project 
 
 In the project directory, you can run:
 
